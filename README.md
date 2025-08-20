@@ -7,11 +7,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=floor-licker&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=stars)
 
 <a href="https://github.com/floor-licker/GitHub-Language-Stats">
-<img src="https://github.com/floor-licker/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/floor-licker/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+
 <img src="https://github.com/floor-licker/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/floor-licker/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=floor-licker&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
