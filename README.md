@@ -4,7 +4,7 @@
 
 - [cardano-ibc-incubator](https://github.com/cardano-foundation/cardano-ibc-incubator) - An IBC bridge implementation enabling interop between Cardano and Cosmos, includes custom Mithril light client implementation. Read about our biggest engineering challenges [here](https://github.com/cardano-foundation/cardano-ibc-incubator/blob/main/KNOWN_ISSUES.md).
 
-- [hermes](https://github.com/webisoftSoftware/hermes) - A fork of the Hermes IBC relayer implementing native Cardano chain support with CIP-1852 key derivation and Ed25519 transaction signing.
+- [hermes](https://github.com/cardano-foundation/hermes-relayer) - A fork of the Hermes IBC relayer implementing native Cardano chain support with CIP-1852 key derivation and Ed25519 transaction signing.
 
 ## Languages & Technologies
 
